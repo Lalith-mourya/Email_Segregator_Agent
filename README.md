@@ -110,14 +110,6 @@ python main.py
 
 ---
 
-## 👨‍💻 Author
-
-**Lalith Mourya**  
-- GitHub: https://github.com/Lalith-mourya  
-- LinkedIn: https://linkedin.com/in/lalith-mourya-842356293  
-
----
-
 ## ⭐ Final Note
 
 This project demonstrates how combining **memory (knowledge reuse)** with **AI models** can lead to more efficient and scalable intelligent systems, similar to modern AI architectures like caching and retrieval-based systems.
