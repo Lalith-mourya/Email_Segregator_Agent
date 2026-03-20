@@ -1,5 +1,5 @@
 # 📧 AI Hybrid Email Segregator
-
+image.png
 ## 🚀 Overview
 The **AI Hybrid Email Segregator** is an intelligent email classification system that combines **memory-based lookup** with **machine learning and NLP** to efficiently categorize incoming emails.
 
